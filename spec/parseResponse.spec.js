@@ -1,5 +1,5 @@
 /**
- * @author:    Index Exchange
+ * @author:    Partner
  * @license:   UNLICENSED
  *
  * @copyright: Copyright (C) 2017 by Index Exchange. All rights reserved.
